@@ -5,8 +5,20 @@
     "photo": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
     "department": "Senior Technician"
   },
+    {
+    "code": "AP6842",
+    "name": "George Pease",
+    "photo": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
+    "department": "Senior Technician"
+  },
   {
     "code": "MST91310",
+    "name": "Melvin Travis",
+    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
+    "department": "Technician"
+  },
+    {
+    "code": "AP91310",
     "name": "Melvin Travis",
     "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
     "department": "Technician"
@@ -17,8 +29,20 @@
     "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
     "department": "Technician"
   },
+    {
+    "code": "AP4860",
+    "name": "Steve Johnson",
+    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
+    "department": "Technician"
+  },
   {
     "code": "MST2812",
+    "name": "Jessica Wills",
+    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
+    "department": "Technician"
+  },
+    {
+    "code": "AP2812",
     "name": "Jessica Wills",
     "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
     "department": "Technician"
@@ -29,8 +53,20 @@
     "photo": "https://i.ibb.co/brskyMh/4444.jpg",
     "department": "Technician"
   },
+    {
+    "code": "AP334",
+    "name": "ELLIOT ALDERSON",
+    "photo": "https://i.ibb.co/brskyMh/4444.jpg",
+    "department": "Technician"
+  },
   {
     "code": "MST1517",
+    "name": "Jordan McLean",
+    "photo": 38,
+    "department": "Technician"
+  },
+    {
+    "code": "AP1517",
     "name": "Jordan McLean",
     "photo": 38,
     "department": "Technician"
@@ -41,8 +77,20 @@
     "photo": 41,
     "department": "Technician"
   },
+    {
+    "code": "AP4393",
+    "name": "Chris Morgan",
+    "photo": 41,
+    "department": "Technician"
+  },
   {
     "code": "MST619130",
+    "name": "Jack Walker",
+    "photo": 28,
+    "department": "Senior Manphotor Anti Hacking Division"
+  },
+    {
+    "code": "AP619130",
     "name": "Jack Walker",
     "photo": 28,
     "department": "Senior Manphotor Anti Hacking Division"
@@ -53,8 +101,20 @@
     "photo": 31,
     "department": "Technician"
   },
+    {
+    "code": "AP1211",
+    "name": "Jason Miller",
+    "photo": 31,
+    "department": "Technician"
+  },
   {
     "code": "MS1059",
+    "name": "Hayden Ward",
+    "photo": 47,
+    "department": "Senior Technician"
+  },
+    {
+    "code": "AP1059",
     "name": "Hayden Ward",
     "photo": 47,
     "department": "Senior Technician"
@@ -65,8 +125,20 @@
     "photo": 25,
     "department": "Senior Technician"
   },
+    {
+    "code": "AP1549",
+    "name": "Steven Williams",
+    "photo": 25,
+    "department": "Senior Technician"
+  },
   {
     "code": "MS8743",
+    "name": "Jerry Baker",
+    "photo": 33,
+    "department": "Technician"
+  },
+    {
+    "code": "AP8743",
     "name": "Jerry Baker",
     "photo": 33,
     "department": "Technician"
