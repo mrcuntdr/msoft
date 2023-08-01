@@ -20,7 +20,7 @@
     {
     "code": "AP91310",
     "name": "Melvin Travis",
-    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
+    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
     "department": "Technician"
   },
   {
@@ -32,7 +32,7 @@
     {
     "code": "AP4860",
     "name": "Steve Johnson",
-    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
+    "photo": "https://i.ibb.co/MZR3MDb/3.jpg",
     "department": "Technician"
   },
   {
@@ -44,7 +44,7 @@
     {
     "code": "AP2812",
     "name": "Jessica Wills",
-    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
+    "photo": "https://i.ibb.co/bgH8gJt/4.jpg",
     "department": "Technician"
   },
   {
@@ -56,7 +56,7 @@
     {
     "code": "AP334",
     "name": "ELLIOT ALDERSON",
-    "photo": "https://i.ibb.co/brskyMh/4444.jpg",
+    "photo": "https://i.ibb.co/kQcG7jz/5.jpg",
     "department": "Technician"
   },
   {
@@ -68,7 +68,7 @@
     {
     "code": "AP1517",
     "name": "Jordan McLean",
-    "photo": "https://i.ibb.co/sVvJWqJ/6666.jpg",
+    "photo": "https://i.ibb.co/M9w61rv/6.jpg",
     "department": "Technician"
   },
   {
@@ -80,7 +80,7 @@
     {
     "code": "AP4393",
     "name": "Chris Morgan",
-    "photo": "https://i.ibb.co/2g7QL06/5555.jpg",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
     "department": "Technician"
   },
   {
@@ -92,73 +92,73 @@
     {
     "code": "AP619130",
     "name": "Jack Walker",
-    "photo": "https://i.ibb.co/cNZzj8s/7777.jpg",
+    "photo": "https://i.ibb.co/4RVmgcH/1.jpg",
     "department": "Senior Manager Anti Hacking Division"
   },
   {
     "code": "MS1211",
     "name": "Jason Miller",
-    "photo": 31,
+    "photo": "00000000000000000",
     "department": "Technician"
   },
     {
     "code": "AP1211",
     "name": "Jason Miller",
-    "photo": 31,
+    "photo": "https://i.ibb.co/4RVmgcH/1.jpg",
     "department": "Technician"
   },
   {
     "code": "MS1059",
     "name": "Hayden Ward",
-    "photo": 47,
+    "photo": "00000000000000000",
     "department": "Senior Technician"
   },
     {
     "code": "AP1059",
     "name": "Hayden Ward",
-    "photo": 47,
+    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
     "department": "Senior Technician"
   },
   {
     "code": "MS1549",
     "name": "Steven Williams",
-    "photo": 25,
+    "photo": "00000000000000000",
     "department": "Senior Technician"
   },
     {
     "code": "AP1549",
     "name": "Steven Williams",
-    "photo": 25,
+    "photo": "https://i.ibb.co/MZR3MDb/3.jpg",
     "department": "Senior Technician"
   },
   {
     "code": "MS8743",
     "name": "Jerry Baker",
-    "photo": 33,
+    "photo": "00000000000000000",
     "department": "Technician"
   },
     {
     "code": "AP8743",
     "name": "Jerry Baker",
-    "photo": 33,
-    "department": "Technician"
+   "photo": "https://i.ibb.co/bgH8gJt/4.jpg",
+     "department": "Technician"
   },
   {
     "code": "MS11765",
     "name": "Davcode Freeman",
-    "photo": 44,
+    "photo": "00000000000000000",
     "department": "Senior Technician"
   },
   {
     "code": "MS23546",
     "name": "Jason Smith",
-    "photo": 45,
+    "photo": "https://i.ibb.co/M9w61rv/6.jpg",
     "department": "Senior Technician"
   },
   {
     "code": "MS1709",
     "name": "Charlie Heck",
-    "photo": 29,
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
     "department": "Technician"
   }
 ]
