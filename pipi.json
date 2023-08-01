@@ -98,7 +98,7 @@
   {
     "code": "MS1211",
     "name": "Jason Miller",
-    "photo": "00000000000000000",
+    "photo": "https://i.ibb.co/cNZzj8s/7777.jpg",
     "department": "Technician"
   },
     {
@@ -110,7 +110,7 @@
   {
     "code": "MS1059",
     "name": "Hayden Ward",
-    "photo": "00000000000000000",
+    "photo": "https://i.ibb.co/2g7QL06/5555.jpg",
     "department": "Senior Technician"
   },
     {
@@ -122,7 +122,7 @@
   {
     "code": "MS1549",
     "name": "Steven Williams",
-    "photo": "00000000000000000",
+    "photo": "https://i.ibb.co/sVvJWqJ/6666.jpg",
     "department": "Senior Technician"
   },
     {
@@ -134,25 +134,25 @@
   {
     "code": "MS8743",
     "name": "Jerry Baker",
-    "photo": "00000000000000000",
+    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
     "department": "Technician"
   },
     {
     "code": "AP8743",
     "name": "Jerry Baker",
-   "photo": "https://i.ibb.co/bgH8gJt/4.jpg",
+   "photo": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
      "department": "Technician"
   },
   {
     "code": "MS11765",
     "name": "Davcode Freeman",
-    "photo": "00000000000000000",
+    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
     "department": "Senior Technician"
   },
   {
     "code": "MS23546",
     "name": "Jason Smith",
-    "photo": "https://i.ibb.co/M9w61rv/6.jpg",
+    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
     "department": "Senior Technician"
   },
   {
