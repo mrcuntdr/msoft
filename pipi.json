@@ -110,13 +110,13 @@
   {
     "code": "MS1059",
     "name": "Hayden Ward",
-    "photo": "https://i.ibb.co/2g7QL06/5555.jpg",
+    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
     "department": "Senior Technician"
   },
     {
     "code": "AP1059",
     "name": "Hayden Ward",
-    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
+    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
     "department": "Senior Technician"
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "code": "MS11765",
-    "name": "Davcode Freeman",
-    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
+    "name": "David Freeman",
+    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
     "department": "Senior Technician"
   },
   {
@@ -157,6 +157,12 @@
   },
   {
     "code": "MS1709",
+    "name": "Charlie Heck",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "department": "Technician"
+  }
+  {
+    "code": "AP1709",
     "name": "Charlie Heck",
     "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
     "department": "Technician"
