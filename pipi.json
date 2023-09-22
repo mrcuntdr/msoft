@@ -158,13 +158,83 @@
   {
     "code": "MS1709",
     "name": "Charlie Heck",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "photo": "https://i.ibb.co/RvHxBjd/m1.jpg",
     "department": "Technician"
   },
   {
     "code": "AP1709",
     "name": "Charlie Heck",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "photo": "https://i.ibb.co/RvHxBjd/m1.jpg",
     "department": "Technician"
+  }
+,
+  {
+    "code": "MS191204",
+    "name": "Alex Smith",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "AP191204",
+    "name": "Alex Smith",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "MS2509",
+    "name": "Jason William",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "AP2509",
+    "name": "Jason William",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "MS30750",
+    "name": "Bryan Davis",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "AP30750",
+    "name": "Bryan Davis",
+    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "MS9119",
+    "name": "Kate Lynn",
+    "photo": "https://i.ibb.co/VJXyJgY/w1.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "AP9119",
+    "name": "Kate Lynn",
+    "photo": "https://i.ibb.co/VJXyJgY/w1.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "MS2527",
+    "name": "Jasmine Louis",
+    "photo": "https://i.ibb.co/ZKHjn3X/w2.jpg",
+    "department": "Level 2 Technician"
+  }
+,
+  {
+    "code": "AP2527",
+    "name": "Jasmine Louis",
+    "photo": "https://i.ibb.co/ZKHjn3X/w2.jpg",
+    "department": "Level 2 Technician"
   }
 ]
