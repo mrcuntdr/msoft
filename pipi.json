@@ -86,13 +86,13 @@
   {
     "code": "MST619130",
     "name": "Jack Walker",
-    "photo": "https://i.ibb.co/cNZzj8s/7777.jpg",
+    "photo": "https://i.ibb.co/bvgntk3/Screenshot-2024-02-06-23-29-19-19-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
     "department": "Senior Manager Anti Hacking Division"
   },
   {
     "code": "AP619130",
     "name": "Jack Walker",
-    "photo": "https://i.ibb.co/4RVmgcH/1.jpg",
+    "photo": "https://i.ibb.co/bvgntk3/Screenshot-2024-02-06-23-29-19-19-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
     "department": "Senior Manager Anti Hacking Division"
   },
   {
@@ -270,6 +270,22 @@
     "code": "MS2117",
     "name": "Lisa Cooper",
     "photo": "https://writestylesonline.com/wp-content/uploads/2018/11/Three-Statistics-That-Will-Make-You-Rethink-Your-Professional-Profile-Picture-1024x1024.jpg",
+    "department": "Level 2 Technician"
+  }
+
+,
+  {
+    "code": "MS2802",
+    "name": "Eric Paul",
+    "photo": "https://i.ibb.co/q0QmVcJ/Screenshot-2024-02-06-23-31-23-70-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
+    "department": "Level 2 Technician"
+  }
+
+,
+  {
+    "code": "AP2803",
+    "name": "Eric Paul",
+    "photo": "https://i.ibb.co/q0QmVcJ/Screenshot-2024-02-06-23-31-23-70-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
     "department": "Level 2 Technician"
   }
 ]
