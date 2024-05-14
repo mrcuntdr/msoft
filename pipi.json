@@ -6,12 +6,6 @@
     "department": "Senior Technician"
   },
   {
-    "code": "AP6842",
-    "name": "George Pease",
-    "photo": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
-    "department": "Senior Technician"
-  },
-  {
     "code": "MST91310",
     "name": "Melvin Travis",
     "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
@@ -149,8 +143,20 @@
     "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
     "department": "Senior Technician"
   },
+    {
+    "code": "AP11765",
+    "name": "David Freeman",
+    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
+    "department": "Senior Technician"
+  },
   {
     "code": "MS23546",
+    "name": "Jason Smith",
+    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
+    "department": "Senior Technician"
+  },
+    {
+    "code": "AP23546",
     "name": "Jason Smith",
     "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
     "department": "Senior Technician"
