@@ -1,309 +1,86 @@
 [
   {
-    "code": "MST6842",
-    "name": "George Pease",
+    "code": "MS652340",
+    "name": "James Hernandez",
     "photo": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
     "department": "Senior Technician"
   },
   {
-    "code": "MST91310",
-    "name": "Melvin Travis",
-    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MS6024",
-    "name": "Michelle Anderson",
-    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP6204",
-    "name": "Michelle Anderson",
-    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP91310",
-    "name": "Melvin Travis",
-    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MST4860",
-    "name": "Steve Johnson",
-    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP4860",
-    "name": "Steve Johnson",
-    "photo": "https://i.ibb.co/MZR3MDb/3.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MST2812",
-    "name": "Jessica Wills",
-    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP2812",
-    "name": "Jessica Wills",
-    "photo": "https://i.ibb.co/bgH8gJt/4.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MST334",
-    "name": "ELLIOT ALDERSON",
-    "photo": "https://i.ibb.co/brskyMh/4444.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP334",
-    "name": "ELLIOT ALDERSON",
-    "photo": "https://i.ibb.co/kQcG7jz/5.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MST1517",
-    "name": "Jordan McLean",
-    "photo": "https://i.ibb.co/sVvJWqJ/6666.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP1517",
-    "name": "Jordan McLean",
-    "photo": "https://i.ibb.co/M9w61rv/6.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MST4393",
-    "name": "Chris Morgan",
-    "photo": "https://i.ibb.co/2g7QL06/5555.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP4393",
-    "name": "Chris Morgan",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MST619130",
-    "name": "Jack Walker",
-    "photo": "https://i.ibb.co/bvgntk3/Screenshot-2024-02-06-23-29-19-19-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
-    "department": "Senior Manager Anti Hacking Division"
-  },
-  {
-    "code": "AP619130",
-    "name": "Jack Walker",
-    "photo": "https://i.ibb.co/bvgntk3/Screenshot-2024-02-06-23-29-19-19-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
-    "department": "Senior Manager Anti Hacking Division"
-  },
-  {
-    "code": "MS1211",
-    "name": "Jason Miller",
-    "photo": "https://i.ibb.co/cNZzj8s/7777.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP1211",
-    "name": "Jason Miller",
-    "photo": "https://i.ibb.co/4RVmgcH/1.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MS1059",
-    "name": "Hayden Ward",
-    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
-    "department": "Senior Technician"
-  },
-  {
-    "code": "AP1059",
-    "name": "Hayden Ward",
-    "photo": "https://i.ibb.co/mcfJ4f1/3333.jpg",
-    "department": "Senior Technician"
-  },
-  {
-    "code": "MS1549",
-    "name": "Steven Williams",
-    "photo": "https://i.ibb.co/sVvJWqJ/6666.jpg",
-    "department": "Senior Technician"
-  },
-  {
-    "code": "AP1549",
-    "name": "Steven Williams",
-    "photo": "https://i.ibb.co/MZR3MDb/3.jpg",
-    "department": "Senior Technician"
-  },
-  {
-    "code": "MS8743",
-    "name": "Jerry Baker",
-    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "AP8743",
-    "name": "Jerry Baker",
+    "code": "MS1926",
+    "name": "Sarah Johnson",
     "photo": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
-    "department": "Technician"
-  },
-  {
-    "code": "MS11765",
-    "name": "David Freeman",
-    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
-    "department": "Senior Technician"
-  },
-    {
-    "code": "AP11765",
-    "name": "David Freeman",
-    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
     "department": "Senior Technician"
   },
   {
-    "code": "MS23546",
-    "name": "Jason Smith",
-    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
+    "code": "MS3556",
+    "name": "Jennifer Walker",
+    "photo": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
     "department": "Senior Technician"
   },
-    {
-    "code": "AP23546",
-    "name": "Jason Smith",
-    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
+  {
+    "code": "MS7005",
+    "name": "Michelle Murray",
+    "photo": "",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS5989",
+    "name": "Aiden Pearce",
+    "photo": "",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS2998",
+    "name": "Kellie Wilson",
+    "photo": "",
     "department": "Senior Technician"
   },
   {
     "code": "MS1709",
     "name": "Charlie Heck",
     "photo": "https://i.ibb.co/RvHxBjd/m1.jpg",
-    "department": "Technician"
+    "department": "Senior Technician"
   },
   {
-    "code": "AP1709",
-    "name": "Charlie Heck",
-    "photo": "https://i.ibb.co/RvHxBjd/m1.jpg",
-    "department": "Technician"
-  }
-,
+    "code": "MS09717",
+    "name": "Jerry Baker",
+    "photo": "",
+    "department": "Senior Technician"
+  },
   {
-    "code": "MS191204",
-    "name": "Alex Smith",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
-    "department": "Level 2 Technician"
-  }
-,
+    "code": "MS6024",
+    "name": "Michelle Anderson",
+    "photo": "https://i.ibb.co/SwmyKvJ/1111.jpg",
+    "department": "Senior Technician"
+  },
   {
-    "code": "AP191204",
-    "name": "Alex Smith",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
-    "department": "Level 2 Technician"
-  }
-,
+    "code": "MS1834",
+    "name": "Sarina Ercel",
+    "photo": "",
+    "department": "Senior Technician"
+  },
   {
-    "code": "MS2509",
-    "name": "Jason William",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
-    "department": "Level 2 Technician"
-  }
-,
+    "code": "MS7010",
+    "name": "Lisa Allen",
+    "photo": "",
+    "department": "Senior Technician"
+  },
   {
-    "code": "AP2509",
-    "name": "Jason William",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
-    "department": "Level 2 Technician"
-  }
-,
+    "code": "MS23546",
+    "name": "Jason Smith",
+    "photo": "https://i.ibb.co/QYWTHRd/2222.jpg",
+    "department": "AntiHacking Department"
+  },
   {
-    "code": "MS30750",
-    "name": "Bryan Davis",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
-    "department": "Level 2 Technician"
-  }
-,
+    "code": "MS11765",
+    "name": "David Freeman",
+    "photo": "https://i.ibb.co/fSGd5ds/2.jpg",
+    "department": "AntiHacking Department"
+  },
   {
-    "code": "AP30750",
-    "name": "Bryan Davis",
-    "photo": "https://i.ibb.co/7bMGkZq/7.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "MS9119",
-    "name": "Kate Lynn",
-    "photo": "https://i.ibb.co/VJXyJgY/w1.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "AP9119",
-    "name": "Kate Lynn",
-    "photo": "https://i.ibb.co/VJXyJgY/w1.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "MS2527",
-    "name": "Jasmine Louis",
-    "photo": "https://i.ibb.co/ZKHjn3X/w2.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "AP9876",
-    "name": "Shawn Murphy",
-    "photo": "https://www.corporatephotographerslondon.com/wp-content/uploads/2023/02/LinkedIn_Profile_Photo.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "MS9876",
-    "name": "Shawn Murphy",
-    "photo": "https://www.corporatephotographerslondon.com/wp-content/uploads/2023/02/LinkedIn_Profile_Photo.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "AP2588",
-    "name": "Ryan Parker",
-    "photo": "https://img.freepik.com/free-photo/portrait-optimistic-businessman-formalwear_1262-3600.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "MS2588",
-    "name": "Ryan Parker",
-    "photo": "https://img.freepik.com/free-photo/portrait-optimistic-businessman-formalwear_1262-3600.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "AP2117",
-    "name": "Lisa Cooper",
-    "photo": "https://writestylesonline.com/wp-content/uploads/2018/11/Three-Statistics-That-Will-Make-You-Rethink-Your-Professional-Profile-Picture-1024x1024.jpg",
-    "department": "Level 2 Technician"
-  }
-,
-  {
-    "code": "MS2117",
-    "name": "Lisa Cooper",
-    "photo": "https://writestylesonline.com/wp-content/uploads/2018/11/Three-Statistics-That-Will-Make-You-Rethink-Your-Professional-Profile-Picture-1024x1024.jpg",
-    "department": "Level 2 Technician"
-  }
-
-,
-  {
-    "code": "MS2802",
-    "name": "Eric Paul",
-    "photo": "https://i.ibb.co/q0QmVcJ/Screenshot-2024-02-06-23-31-23-70-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
-    "department": "Level 2 Technician"
-  }
-
-,
-  {
-    "code": "AP2803",
-    "name": "Eric Paul",
-    "photo": "https://i.ibb.co/q0QmVcJ/Screenshot-2024-02-06-23-31-23-70-6012fa4d4ddec268fc5c7112cbb265e7.jpg",
-    "department": "Level 2 Technician"
+    "code": "MS2159",
+    "name": "Hazel Ward",
+    "photo": "",
+    "department": "AntiHacking Department"
   }
 ]
