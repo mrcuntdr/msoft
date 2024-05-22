@@ -90,7 +90,19 @@
     "department": "Senior Technician"
   },
   {
+    "code": "AP1926",
+    "name": "Sarah Johnson",
+    "photo": "https://i.ibb.co/bNyFBgS/Whats-App-Image-2024-05-15-at-12-54-18-AM-1.jpg",
+    "department": "Senior Technician"
+  },
+  {
     "code": "MS3556",
+    "name": "Jennifer Walker",
+    "photo": "https://i.ibb.co/ftZDpPM/Whats-App-Image-2024-05-15-at-12-54-18-AM.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP3556",
     "name": "Jennifer Walker",
     "photo": "https://i.ibb.co/ftZDpPM/Whats-App-Image-2024-05-15-at-12-54-18-AM.jpg",
     "department": "Senior Technician"
@@ -102,7 +114,19 @@
     "department": "Senior Technician"
   },
   {
+    "code": "AP7005",
+    "name": "Michelle Murray",
+    "photo": "https://i.ibb.co/Q6Zm20F/Whats-App-Image-2024-05-15-at-12-54-19-AM-1.jpg",
+    "department": "Senior Technician"
+  },
+  {
     "code": "MS5989",
+    "name": "Aiden Pearce",
+    "photo": "https://i.ibb.co/g4Cs9k7/Whats-App-Image-2024-05-15-at-12-54-20-AM-2.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP5989",
     "name": "Aiden Pearce",
     "photo": "https://i.ibb.co/g4Cs9k7/Whats-App-Image-2024-05-15-at-12-54-20-AM-2.jpg",
     "department": "Senior Technician"
@@ -114,7 +138,19 @@
     "department": "Senior Technician"
   },
   {
+    "code": "AP2998",
+    "name": "Kellie Wilson",
+    "photo": "https://i.ibb.co/sgkknfb/Whats-App-Image-2024-05-15-at-12-54-19-AM-2.jpg",
+    "department": "Senior Technician"
+  },
+  {
     "code": "MS1709",
+    "name": "Charlie Heck",
+    "photo": "https://i.ibb.co/z4DdhfV/Whats-App-Image-2024-05-15-at-12-54-21-AM-1.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP1709",
     "name": "Charlie Heck",
     "photo": "https://i.ibb.co/z4DdhfV/Whats-App-Image-2024-05-15-at-12-54-21-AM-1.jpg",
     "department": "Senior Technician"
@@ -126,7 +162,19 @@
     "department": "Senior Technician"
   },
   {
+    "code": "AP09717",
+    "name": "Jerry Baker",
+    "photo": "https://i.ibb.co/nbt3ZWW/Whats-App-Image-2024-05-15-at-12-54-21-AM-2.jpg",
+    "department": "Senior Technician"
+  },
+  {
     "code": "MS6024",
+    "name": "Michelle Anderson",
+    "photo": "https://i.ibb.co/QHTc0qP/Whats-App-Image-2024-05-15-at-12-54-19-AM.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP6024",
     "name": "Michelle Anderson",
     "photo": "https://i.ibb.co/QHTc0qP/Whats-App-Image-2024-05-15-at-12-54-19-AM.jpg",
     "department": "Senior Technician"
@@ -138,7 +186,19 @@
     "department": "Senior Technician"
   },
   {
+    "code": "AP1834",
+    "name": "Sarina Ercel",
+    "photo": "https://i.ibb.co/GMLKPLF/Whats-App-Image-2024-05-15-at-12-54-20-AM-1.jpg",
+    "department": "Senior Technician"
+  },
+  {
     "code": "MS7010",
+    "name": "Lisa Allen",
+    "photo": "https://i.ibb.co/YTM4Lzf/Whats-App-Image-2024-05-15-at-12-54-20-AM.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP7010",
     "name": "Lisa Allen",
     "photo": "https://i.ibb.co/YTM4Lzf/Whats-App-Image-2024-05-15-at-12-54-20-AM.jpg",
     "department": "Senior Technician"
@@ -150,13 +210,31 @@
     "department": "AntiHacking Department"
   },
   {
+    "code": "AP23546",
+    "name": "Jason Smith",
+    "photo": "https://i.ibb.co/mJh5XKz/Whats-App-Image-2024-05-15-at-12-54-21-AM.jpg",
+    "department": "AntiHacking Department"
+  },
+  {
     "code": "MS11765",
     "name": "David Freeman",
     "photo": "https://i.ibb.co/FYY6j2w/Whats-App-Image-2024-05-15-at-12-54-22-AM-1.jpg",
     "department": "AntiHacking Department"
   },
   {
+    "code": "AP11765",
+    "name": "David Freeman",
+    "photo": "https://i.ibb.co/FYY6j2w/Whats-App-Image-2024-05-15-at-12-54-22-AM-1.jpg",
+    "department": "AntiHacking Department"
+  },
+  {
     "code": "MS2159",
+    "name": "Hazel Ward",
+    "photo": "https://i.ibb.co/nBzy6jV/women-in-business.jpg",
+    "department": "AntiHacking Department"
+  },
+  {
+    "code": "AP2159",
     "name": "Hazel Ward",
     "photo": "https://i.ibb.co/nBzy6jV/women-in-business.jpg",
     "department": "AntiHacking Department"
