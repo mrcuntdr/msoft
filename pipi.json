@@ -1,5 +1,167 @@
 [
   {
+    "code": "MST4393",
+    "name": "Chris Morgan",
+    "photo": "https://i.ibb.co/TqdjD93/4fd81047-e5ed-4ad8-be17-f4be21e54c91.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP4393",
+    "name": "Chris Morgan",
+    "photo": "https://i.ibb.co/TqdjD93/4fd81047-e5ed-4ad8-be17-f4be21e54c91.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST4393",
+    "name": "Chris Morgan",
+    "photo": "https://i.ibb.co/TqdjD93/4fd81047-e5ed-4ad8-be17-f4be21e54c91.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST1021",
+    "name": "James Smith",
+    "photo": "https://i.ibb.co/t3gJg5Y/f88b9a3a-01b3-4003-b6cb-5ab8f92cc17f.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP1021",
+    "name": "James Smith",
+    "photo": "https://i.ibb.co/t3gJg5Y/f88b9a3a-01b3-4003-b6cb-5ab8f92cc17f.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST3649",
+    "name": "Alex Walker",
+    "photo": "https://i.ibb.co/kBjJGwD/6f548800-8258-4543-8482-f3cb17dbdad2.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP3649",
+    "name": "Alex Walker",
+    "photo": "https://i.ibb.co/kBjJGwD/6f548800-8258-4543-8482-f3cb17dbdad2.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST2469",
+    "name": "Patrick Williams",
+    "photo": "https://i.ibb.co/3SVn4Hk/e6fc9786-d14f-433f-a803-26ac9e165319.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP2469",
+    "name": "Patrick Williams",
+    "photo": "https://i.ibb.co/3SVn4Hk/e6fc9786-d14f-433f-a803-26ac9e165319.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST1127",
+    "name": "Austin Wade",
+    "photo": "https://i.ibb.co/6HFjjv3/e35807f4-831a-47e6-8488-2fb9e1b170c5.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP1127",
+    "name": "Austin Wade",
+    "photo": "https://i.ibb.co/6HFjjv3/e35807f4-831a-47e6-8488-2fb9e1b170c5.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST0908",
+    "name": "Nolan Smith",
+    "photo": "https://i.ibb.co/kg4LdQL/426a1b43-70e5-47d1-a7cf-608a8be24686.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP0908",
+    "name": "Nolan Smith",
+    "photo": "https://i.ibb.co/kg4LdQL/426a1b43-70e5-47d1-a7cf-608a8be24686.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST6842",
+    "name": "George Pease",
+    "photo": "https://i.ibb.co/W2k4pgz/8792892a-1f8d-490f-8d42-786b0fdb5149.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP6842",
+    "name": "George Pease",
+    "photo": "https://i.ibb.co/W2k4pgz/8792892a-1f8d-490f-8d42-786b0fdb5149.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST6995",
+    "name": "Victor Wayne",
+    "photo": "https://i.ibb.co/dPCxQjv/3b39d8b1-e60a-4b33-95a5-e7029e57dae1.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP6995",
+    "name": "Victor Wayne",
+    "photo": "https://i.ibb.co/dPCxQjv/3b39d8b1-e60a-4b33-95a5-e7029e57dae1.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST91310",
+    "name": "Melvin Travis",
+    "photo": "https://i.ibb.co/WD8jmZg/65545f71-fd62-4700-811a-dbeb157d86a5.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP91310",
+    "name": "Melvin Travis",
+    "photo": "https://i.ibb.co/WD8jmZg/65545f71-fd62-4700-811a-dbeb157d86a5.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST5123",
+    "name": "Simon Brown",
+    "photo": "https://i.ibb.co/LCXp0rH/a0f10b5d-0e80-421e-a4b2-131b17b7ba1d.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP5123",
+    "name": "Simon Brown",
+    "photo": "https://i.ibb.co/LCXp0rH/a0f10b5d-0e80-421e-a4b2-131b17b7ba1d.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST1517",
+    "name": "Jordan McLean",
+    "photo": "https://i.ibb.co/tsXRRZZ/a2c9f9f8-ea4b-4c97-8f3a-cdc48f2e178a.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP1517",
+    "name": "Jordan McLean",
+    "photo": "https://i.ibb.co/tsXRRZZ/a2c9f9f8-ea4b-4c97-8f3a-cdc48f2e178a.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST1312",
+    "name": "Henry Dawsaon",
+    "photo": "https://i.ibb.co/gtxqkVK/c648bd99-8c54-4e7c-92fd-bd07b78b3e68.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP1312",
+    "name": "Henry Dawsaon",
+    "photo": "https://i.ibb.co/gtxqkVK/c648bd99-8c54-4e7c-92fd-bd07b78b3e68.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST9843",
+    "name": "Marvin Lee",
+    "photo": "https://i.ibb.co/kDzd9nf/2a5946fc-d6d4-45ef-b887-0b7bfb98f791.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP9843",
+    "name": "Marvin Lee",
+    "photo": "https://i.ibb.co/kDzd9nf/2a5946fc-d6d4-45ef-b887-0b7bfb98f791.jpg",
+    "department": "Senior Technician"
+  },
+  {
     "code": "MS4245",
     "name": "Suzzane Johnson",
     "photo": "https://i.ibb.co/92r92fd/Whats-App-Image-2024-05-22-at-10-45-20-PM-2.jpg",
