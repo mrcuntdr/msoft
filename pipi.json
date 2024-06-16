@@ -1,8 +1,14 @@
 [
   {
-    "code": "MST4393",
-    "name": "Chris Morgan",
-    "photo": "https://i.ibb.co/TqdjD93/4fd81047-e5ed-4ad8-be17-f4be21e54c91.jpg",
+    "code": "MST4860",
+    "name": "Steve Jhonson",
+    "photo": "https://i.ibb.co/vhZL8CL/85e4fe67-c91e-483c-b25c-500df8a0580d.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP4860",
+    "name": "Steve Jhonson",
+    "photo": "https://i.ibb.co/vhZL8CL/85e4fe67-c91e-483c-b25c-500df8a0580d.jpg",
     "department": "Senior Technician"
   },
   {
