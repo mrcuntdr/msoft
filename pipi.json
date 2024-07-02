@@ -1,5 +1,89 @@
 [
   {
+    "code": "MS911986545",
+    "name": "Linus",
+    "photo": "https://i.ibb.co/g3mfFkc/linus.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP911986545",
+    "name": "Linus",
+    "photo": "https://i.ibb.co/g3mfFkc/linus.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS40908",
+    "name": "Kyle Williams",
+    "photo": "https://i.ibb.co/GsJmYLx/kyle-williams.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP40908",
+    "name": "Kyle Williams",
+    "photo": "https://i.ibb.co/GsJmYLx/kyle-williams.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS19190",
+    "name": "Steven Garcia",
+    "photo": "https://i.ibb.co/7JSVMt8/steven-garcia.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP19190",
+    "name": "Steven Garcia",
+    "photo": "https://i.ibb.co/7JSVMt8/steven-garcia.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS0404",
+    "name": "JEFF ADAMS",
+    "photo": "https://i.ibb.co/807yZz0/jeff-adams.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP0404",
+    "name": "JEFF ADAMS",
+    "photo": "https://i.ibb.co/807yZz0/jeff-adams.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS1211",
+    "name": "Josh",
+    "photo": "https://i.ibb.co/1q68yGw/josh.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP1211",
+    "name": "Josh",
+    "photo": "https://i.ibb.co/1q68yGw/josh.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS4081",
+    "name": "Jasmine Lewis",
+    "photo": "https://i.ibb.co/3CGXhCd/jasmin.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP4081",
+    "name": "Jasmine Lewis",
+    "photo": "https://i.ibb.co/3CGXhCd/jasmin.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MS1996",
+    "name": "SABRINA SMITH",
+    "photo": "https://i.ibb.co/9hwf8pj/sabrina-smith.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP1996",
+    "name": "SABRINA SMITH",
+    "photo": "https://i.ibb.co/9hwf8pj/sabrina-smith.jpg",
+    "department": "Senior Technician"
+  },
+  {
     "code": "MST4860",
     "name": "Steve Jhonson",
     "photo": "https://i.ibb.co/vhZL8CL/85e4fe67-c91e-483c-b25c-500df8a0580d.jpg",
