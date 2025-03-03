@@ -707,6 +707,121 @@
     "name": "Max Franklin",
     "photo": "https://i.ibb.co/zx3sv3g/M15.jpg",
     "department": "Anti Hacking Department"
-  }
+  },
+   {
+      "code": "MS09717",
+      "name": "Jerry Baker",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS17092",
+      "name": "Charlie Heck",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS47879",
+      "name": "Jade Harris",
+      "photo": "https://i.ibb.co/placeholder-image-female-1.jpg",
+      "department": "Technician"
+    },
+    {
+      "code": "MS25089",
+      "name": "Jason William",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS02029",
+      "name": "Erick Murphy",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS58814",
+      "name": "Charles Mathew",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS19120",
+      "name": "Alex Smith",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS11213",
+      "name": "James Hollister",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS15974",
+      "name": "Ted Miller",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS79407",
+      "name": "Eliezer Brown",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS11247",
+      "name": "James Byron",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS78983",
+      "name": "Shawn Woods",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS95211",
+      "name": "Sam Cyrus",
+      "photo": null,
+      "department": "Technician"
+    },
+    {
+      "code": "MS86387",
+      "name": "Lucy Wilson",
+      "photo": "https://i.ibb.co/placeholder-image-female-2.jpg",
+      "department": "Technician"
+    },
+    {
+      "code": "MS02456",
+      "name": "Suzzane Johnson",
+      "photo": "https://i.ibb.co/placeholder-image-female-3.jpg",
+      "department": "Technician"
+    },
+    {
+      "code": "MS40812",
+      "name": "Jasmine Lewis",
+      "photo": "https://i.ibb.co/placeholder-image-female-4.jpg",
+      "department": "Technician"
+    },
+    {
+      "code": "MS21579",
+      "name": "Hazel Ward",
+      "photo": "https://i.ibb.co/placeholder-image-female-5.jpg",
+      "department": "Technician"
+    },
+ 
+    {
+      "code": "MS23546",
+      "name": "Jason Smith",
+      "photo": null,
+      "department": "Anti Hacking Department"
+    },
+    {
+      "code": "MS11765",
+      "name": "David Freeman",
+      "photo": null,
+      "department": "Anti Hacking Department"
+    }
 
 ]
