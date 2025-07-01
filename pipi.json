@@ -1026,6 +1026,30 @@
     "department": "Anti Hacking Department"
   },
   {
+    "code": "MST5812",
+    "name": "Ethan Blake",
+    "photo": "https://i.ibb.co/mVM2mKJg/IMG-20250701-WA0000.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "AP5812",
+    "name": "Ethan Blake",
+    "photo": "https://i.ibb.co/mVM2mKJg/IMG-20250701-WA0000.jpg",
+    "department": "Senior Technician"
+  },
+  {
+    "code": "MST5271",
+    "name": "Michael Davis",
+    "photo": "https://i.ibb.co/hR7RZr5H/IMG-20250701-WA0001.jpg",
+    "department": "Digital Security & Diagnostic Team"
+  },
+  {
+    "code": "AP5271",
+    "name": "Michael Davis",
+    "photo": "https://i.ibb.co/hR7RZr5H/IMG-20250701-WA0001.jpg",
+    "department": "Digital Security & Diagnostic Team"
+  },
+  {
     "code": "AP5212",
     "name": "Samantha Wood",
     "photo": "https://i.ibb.co/g3mfFkc/linus.jpg",
