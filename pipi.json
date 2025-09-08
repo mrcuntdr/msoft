@@ -1121,6 +1121,48 @@
     "photo": "https://images.generated.photos/8EhCw9jPgaPGZTXjx42RLO7LBsqpx11M1Hl5HLdtQjo/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDU4MzMxLmpwZw.jpg",
     "department": "Apple Certified Technician"
   },
+  {
+    "code": "MS9865",
+    "name": "Nathan Scott",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkMzA0OTMuanBlZw==",
+    "department": "Anti-Hacking Manager"
+  },
+  {  
+  "code": "AP9865",
+    "name": "Nathan Scott",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkMzA0OTMuanBlZw==",
+    "department": "Anti-Hacking Manager"
+  },
+  {
+    "code": "MS7525",
+    "name": "Alex Martin",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL3dvbWFuL3NlZWQxMjExMi5qcGVn",
+    "department": "Microsoft Certified Manager"
+  },
+  {
+    "code": "AP16310",
+    "name": "Alex Martin",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL3dvbWFuL3NlZWQxMjExMi5qcGVn",
+    "department": "Apple Certified Manager"
+  },
+  {
+    "code": "MS16310",
+    "name": "John Battam",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkMTM0OS5qcGVn",
+    "department": "Microsoft Certified Manager"
+  },
+  {
+    "code": "MS1979",
+    "name": "Rosss Taylor",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkNDU3NTkuanBlZw==",
+    "department": "Microsoft Certified Manager"
+  },
+    {
+    "code": "AP1979",
+    "name": "Rosss Taylor",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkNDU3NTkuanBlZw==",
+    "department": "Apple Certified Manager"
+  },
  {
     "code": "AP5212",
     "name": "Samantha Wood",
