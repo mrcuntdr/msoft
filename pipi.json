@@ -1140,8 +1140,14 @@
     "department": "Microsoft Certified Manager"
   },
   {
-    "code": "AP16310",
+    "code": "AP7525",
     "name": "Alex Martin",
+    "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkNDU5Ni5qcGVn",
+    "department": "Microsoft Certified Manager"
+  },
+  {
+    "code": "AP16310",
+    "name": "John Battam",
     "photo": "https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkNDU5Ni5qcGVn",
     "department": "Apple Certified Manager"
   },
