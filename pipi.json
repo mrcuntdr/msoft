@@ -1287,4 +1287,18 @@
     "photo": "https://images.generated.photos/8EhCw9jPgaPGZTXjx42RLO7LBsqpx11M1Hl5HLdtQjo/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDU4MzMxLmpwZw.jpg",
     "department": "Microsoft Certified Technician"
   }
+  ,
+    {
+    "code": "MS3838",
+    "name": "Ricardo Wilson",
+    "photo": "https://i.ibb.co/g3mfFkc/linus.jpg",
+    "department": "Microsoft Certified Technician"
+  }
+  ,
+    {
+    "code": "AP3838",
+    "name": "Ricardo Wilson",
+    "photo": "https://i.ibb.co/g3mfFkc/linus.jpg",
+    "department": "Apple Certified Technician"
+  }
 ]
